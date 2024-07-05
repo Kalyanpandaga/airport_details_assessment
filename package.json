@@ -12,6 +12,7 @@
   "dependencies": {
     "csv-parser": "^3.0.0",
     "express": "^4.19.2",
+    "safer-buffer": "^2.1.2",
     "sequelize": "^6.37.3",
     "sqlite3": "^5.1.7"
   },
